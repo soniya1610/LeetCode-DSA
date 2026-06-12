@@ -1,3 +1,4 @@
+package Arrays;
 // Two Sum problem: Given an array of integers and a target integer, return the indices of the two numbers that add up to the target.https://leetcode.com/problems/two-sum/description/
 // time complexity : O(n) because we traverse the array once.
 // space complexity : O(1) because we are using in place sorting and no extra space will be used .
