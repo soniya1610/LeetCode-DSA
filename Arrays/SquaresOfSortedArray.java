@@ -1,4 +1,3 @@
-package Arrays;
 // 977. Squares of a Sorted Array
 // time complexity : O(nlogn) because we are sorting the array after calculating the squares.
 // space complexity : O(n) because we are creating a new array to store the squares of the numbers.
