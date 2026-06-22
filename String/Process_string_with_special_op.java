@@ -1,5 +1,3 @@
-package String;
-
 class Solution {
     public String processStr(String s) {
         StringBuilder result = new StringBuilder();
