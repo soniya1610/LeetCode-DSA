@@ -1,4 +1,4 @@
- class Solution {
+ class Solution{
     public char processStr(String s, long k) {
         int n = s.length();
 
