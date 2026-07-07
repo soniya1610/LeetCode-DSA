@@ -46,10 +46,8 @@ class Solution {
             if (digit != 0) {
                 sb.append(digit);
             }
-
             n /= 10;
         }
-
         sb.reverse();
 
         long x = 0;
@@ -61,7 +59,6 @@ class Solution {
             x = x * 10 + digit;
             sum += digit;
         }
-
         return x * sum;
     }
 }
