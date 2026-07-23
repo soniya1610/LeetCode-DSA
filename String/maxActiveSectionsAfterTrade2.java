@@ -95,6 +95,7 @@
 // O(n log n)
 
 // Java Solution:
+import java.util.*;
 class Solution {
 
     public List<Integer> maxActiveSectionsAfterTrade(
