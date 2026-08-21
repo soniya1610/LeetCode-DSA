@@ -9,7 +9,6 @@
 //
 // The first element goes into arr1 and the second element
 // goes into arr2.
-//
 // For every remaining element:
 // - Compare the last elements of arr1 and arr2.
 // - If arr1's last element is greater, add the current
